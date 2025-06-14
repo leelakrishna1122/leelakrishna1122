@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 <!--
-**leelakrishna1122/leelakrishna1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**le# 👋 Hi, I’m @kotireddy712
 
-Here are some ideas to get you started:
+👀 I’m interested in **Competitive Programming**, **Web Development**, and **Problem Solving**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning **React** and exploring advanced **Data Structures and Algorithms**.
+
+💞️ I’m looking to collaborate on **open-source projects** and exciting **web development ideas**.
+
+📫 How to reach me: Email me or connect on [LinkedIn](#).
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I love solving coding challenges and exploring new tech stacks!
