@@ -1,7 +1,4 @@
-## Hi 👋 I'm Leela Krishna
-
-<!--
-**le# 👋 Hi, I’m @leelakrishna1122
+👋 Hi, I’m @leelakrishna1122
 
 👀 I’m interested in **Competitive Programming**, **Web Development**, and **Problem Solving**.
 
