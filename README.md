@@ -1,4 +1,4 @@
-## Hi 👋 I'm Nathani Leela Krishna
+## Hi 👋 I'm Leela Krishna
 
 <!--
 **le# 👋 Hi, I’m @kotireddy712
