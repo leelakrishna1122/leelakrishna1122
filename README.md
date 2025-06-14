@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Leela Krishna
 
 <!--
-**le# 👋 Hi, I’m @kotireddy712
+**le# 👋 Hi, I’m @leelakrishna1122
 
 👀 I’m interested in **Competitive Programming**, **Web Development**, and **Problem Solving**.
 
@@ -9,7 +9,7 @@
 
 💞️ I’m looking to collaborate on **open-source projects** and exciting **web development ideas**.
 
-📫 How to reach me: Email me or connect on [LinkedIn](#).
+📫 How to reach me: Email me @leelakrishnanathani@gmail.com or connect on [https://www.linkedin.com/in/leela-krishna-7a3294289 ](#).
 
 😄 Pronouns: He/Him
 
