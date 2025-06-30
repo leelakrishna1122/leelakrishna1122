@@ -11,4 +11,3 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I love solving coding challenges and exploring new tech stacks!
